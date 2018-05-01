@@ -2,8 +2,6 @@
 
 Dog Breed Classsifier is an application pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the model will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
-![Sample Output][image1]
-
 Along with exploring state-of-the-art CNN models for classification, we will utilize Transfer Learning with ResNet-50 bottleneck features, along with frameworks such as TensorFlow and Keras.
 
 ## Project Instructions
